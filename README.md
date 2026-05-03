@@ -1,5 +1,12 @@
 # 🌡️ STM32 Akıllı Ortam İzleme ve Kontrol Sistemi
 
+**Hazırlayan:** Furkan Yatır
+**Öğrenci Numarası:** 25221303001  
+**Ders:** Gömülü Sistemler 
+**Üniversite:** İstanbul Topkapı Üniversitesi  
+
+---
+
 Bu proje; ADC, I2C, SPI, PWM ve UART protokollerini tek bir sistemde birleştiren, sıcaklık ve hareket verilerine göre iklimlendirme kontrolü yapan bir gömülü sistem projesidir.
 
 ---
